@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lifecycle</string>
+    <string name="lang">English</string>
+
+    <string-array name="system">
+        <item>earth</item>
+        <item>@string/lang</item>
+    </string-array>
+
+    <integer-array name="magicnumbers">
+        <item>42</item>
+        <item>1337</item>
+    </integer-array>
+
+</resources>
